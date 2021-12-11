@@ -1,0 +1,24 @@
+# ToroBoto
+Faire un comparatif des différentes méthodes sur une même paire et une même plage temporelle :
+- pouvoir régler le kline pour chaque
+- pouvoir régler les paramètres pour chaque
+- plot tous les résultats
+- comparatif de chaque
+
+
+Etudier le type de crypto en fonction :
+- du market cap
+- de l'ancienneté
+- de la volatilité
+- du nombre de holders
+- tendance (bear ou bull)
+- ...
+pour définir des profils (shitcoin, altcoin, big coin etc), et trouver la meilleure strat pour chaque profil
+
+Faire des tests des strats sur des périodes bear et bull
+
+
+
+
+# NuBoto
+Faire un bot d'achat de nouveaux listings sur gate.io
